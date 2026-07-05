@@ -89,4 +89,29 @@
 
 ⚠️ Важное примечание: Не перемещайте и не переименовывайте файл базы данных kamstat.db относительно исполняемых модулей приложения, иначе нарушится интеграция данных и программа выдаст ошибку инициализации СУБД.
 
-👨‍💻 Разработчик: Сартбаев Жантай Болотбекович, студент 4 курса Камчатского политехнического техникума (специальность «Информационные системы и программирование»).
+---
+
+### 🖼️ Интерфейс программы
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96f15a33-edfe-4157-bf64-6f78496b6aa1" width="48%" alt="Интерфейс 1" />
+  <img src="https://github.com/user-attachments/assets/25622698-37ce-4ff9-960b-857ad5946650" width="48%" alt="Интерфейс 2" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d4426549-9f1a-42fa-b475-d833f1efc66a" width="48%" alt="Интерфейс 3" />
+  <img src="https://github.com/user-attachments/assets/1a1f4930-8ae4-46be-8f13-88dbdd8b3b10" width="48%" alt="Интерфейс 4" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b142d52b-df88-4e21-9676-ab05de87e4d5" width="48%" alt="Интерфейс 5" />
+  <img src="https://github.com/user-attachments/assets/a855100e-ca82-4c40-abbb-d5cae986e9e2" width="48%" alt="Интерфейс 6" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d657d7a7-88a7-44d1-9f4b-46c36c910764" width="48%" alt="Интерфейс 7" />
+  <img src="https://github.com/user-attachments/assets/89d1fbaf-b354-4772-8326-83f25d5539f5" width="48%" alt="Интерфейс 8" />
+</p>
+
+---
+👨‍💻 **Разработчик:** **Сартбаев Жантай Болотбекович**, студент 4 курса Камчатского политехнического техникума (специальность «Информационные системы и программирование»).
